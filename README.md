@@ -4,16 +4,16 @@ This repository is a resource for learning and mastering the NumPy library in Py
 
 # Table of Contents:
 
-Introduction to NumPy  
-Installation  
-Getting Started  
-Basic NumPy Operations  
-Array Creation  
-Array Indexing and Slicing  
-Array Operations  
-Broadcasting  
-Advanced NumPy  
-Resources  
+[Introduction to NumPy](#introduction-to-numpy)  
+[Installation](#installation)  
+[Getting Started](#getting-started)  
+[Basic NumPy Operations](#basic-numpy-operations)  
+[Array Creation](#array-creation)  
+[Array Indexing and Slicing](#array-indexing-and-slicing)  
+[Array Operations](#array-operations)  
+[Broadcasting](#broadcasting)  
+[Advanced NumPy](#advanced-numpy)  
+[Resources](#resources)  
 
 # Introduction to NumPy
 
@@ -71,7 +71,7 @@ NumPy data types and memory management.
 
 # Resources
 
-**NumPy Documentation**: The official documentation is an excellent resource for in-depth learning.  
-**NumPy Exercises**: A collection of 100 NumPy exercises to practice your skills.  
-**NumPy Cheat Sheet**: A handy cheat sheet with NumPy examples and explanations.  
-**NumPy Stack Overflow**: Search for answers to common NumPy-related questions on Stack Overflow.  
+**[NumPy Documentation](https://numpy.org/doc/stable/)**: The official documentation is an excellent resource for in-depth learning.  
+**[NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)**: A collection of 100 NumPy exercises to practice your skills.  
+**[NumPy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)**: A handy cheat sheet with NumPy examples and explanations.  
+**[NumPy Stack Overflow](https://stackoverflow.com/questions/tagged/numpy)**: Search for answers to common NumPy-related questions on Stack Overflow.  
