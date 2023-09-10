@@ -1,4 +1,4 @@
-#Numpy Learning
+# Numpy Learning
 
 This repository is a resource for learning and mastering the NumPy library in Python. NumPy is a fundamental library for numerical computing in Python and is widely used in data science, scientific computing, and machine learning.
 
