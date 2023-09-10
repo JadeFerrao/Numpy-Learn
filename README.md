@@ -34,18 +34,18 @@ Basic NumPy Operations
 
 # Learn the fundamental NumPy operations, including:
 
-Creating NumPy arrays.
-Performing element-wise operations.
-Reshaping arrays.
-Combining arrays.
-Array Creation
+Creating NumPy arrays.  
+Performing element-wise operations.  
+Reshaping arrays.  
+Combining arrays.  
+Array Creation  
 
 # Understand different ways to create NumPy arrays:
 
-Using np.array().
-Creating arrays of zeros, ones, or custom values.
-Generating sequences of numbers.
-Array Indexing and Slicing
+Using np.array().  
+Creating arrays of zeros, ones, or custom values.  
+Generating sequences of numbers.  
+Array Indexing and Slicing.  
 
 Learn how to access and manipulate elements of NumPy arrays using indexing and slicing techniques.
 
@@ -53,10 +53,10 @@ Learn how to access and manipulate elements of NumPy arrays using indexing and s
 
 Explore advanced operations on NumPy arrays:
 
-Mathematical operations (addition, subtraction, multiplication, etc.).
-Aggregation functions (mean, sum, min, max, etc.).
-Broadcasting for operations on arrays with different shapes.
-Broadcasting
+Mathematical operations (addition, subtraction, multiplication, etc.).  
+Aggregation functions (mean, sum, min, max, etc.).  
+Broadcasting for operations on arrays with different shapes.  
+Broadcasting.  
 
 Understand the concept of broadcasting in NumPy, which allows you to perform operations on arrays with different shapes.
 
@@ -64,13 +64,13 @@ Understand the concept of broadcasting in NumPy, which allows you to perform ope
 
 Dive deeper into NumPy's advanced features:
 
-Broadcasting with advanced examples.
-Indexing with boolean arrays.
-Fancy indexing.
-NumPy data types and memory management.
-Resources
+Broadcasting with advanced examples.  
+Indexing with boolean arrays.  
+Fancy indexing.  
+NumPy data types and memory management.  
+Resources.  
 
-NumPy Documentation: The official documentation is an excellent resource for in-depth learning.
-NumPy Exercises: A collection of 100 NumPy exercises to practice your skills.
-NumPy Cheat Sheet: A handy cheat sheet with NumPy examples and explanations.
-NumPy Stack Overflow: Search for answers to common NumPy-related questions on Stack Overflow.
+### NumPy Documentation: The official documentation is an excellent resource for in-depth learning.  
+### NumPy Exercises: A collection of 100 NumPy exercises to practice your skills.  
+### NumPy Cheat Sheet: A handy cheat sheet with NumPy examples and explanations.  
+### NumPy Stack Overflow: Search for answers to common NumPy-related questions on Stack Overflow.  
