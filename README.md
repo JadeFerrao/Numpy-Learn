@@ -22,10 +22,9 @@ NumPy, which stands for Numerical Python, is a library in Python that provides s
 
 To get started with NumPy, you need to install it. You can use pip, the Python package manager, to install NumPy:
 
-bash
-Copy code
-pip install numpy
-Getting Started
+bash `pip install numpy`
+
+# Getting Started
 
 Before diving into more advanced features of NumPy, make sure you understand the basics. Here are some resources to help you get started:
 
